@@ -21,6 +21,12 @@ configs:
     path: qulture-general-knowledge-questions.csv
 ---
 
+<p align="center">
+  <a href="https://www.qulture-app.com/en/open-data/">
+    <img src="qulture-logo.png" alt="Qulture" width="160">
+  </a>
+</p>
+
 # Qulture Multilingual General Knowledge Question Dataset
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.22108528.svg)](https://doi.org/10.5281/zenodo.22108528)
