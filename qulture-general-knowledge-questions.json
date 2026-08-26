@@ -1,0 +1,2379 @@
+{
+  "name": "Qulture general knowledge question corpus",
+  "license": "CC BY 4.0",
+  "generated_at": "2026-08-23T11:20:31.176Z",
+  "source_api": "https://www.qulture-app.com/wp-json/wp/v2/questions/{id}",
+  "immutable_content_notice": "Game fields are exact values from the public REST API and were not edited. External sources are stored separately in the SEO manifest.",
+  "family_count": 16,
+  "record_count": 64,
+  "records": [
+    {
+      "family_id": "sxsw-history",
+      "id": 629,
+      "language": "fr",
+      "slug": "quel-festival-a-debute-comme-une-conference-de-technologie-avant-de-devenir-celebre-pour-sa-musique-live",
+      "question": "Quel festival a débuté comme festival de musique en 1987 avant d’ajouter le cinéma et Interactive ?",
+      "options": [
+        "SXSW (South by Southwest)",
+        "Coachella",
+        "Tomorrowland",
+        "Ultra Music Festival"
+      ],
+      "correct_indicators": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "correct_answer": "SXSW (South by Southwest)",
+      "anecdote": "SXSW a débuté à Austin en 1987 comme festival et conférence consacrés à la musique, afin de donner davantage de visibilité à la scène musicale locale. Les volets Film et Interactive ont été ajoutés en 1994. Aujourd’hui, SXSW réunit musique, cinéma, technologie, éducation et culture, mais son origine est musicale — et non une conférence technologique.",
+      "image": 642,
+      "categories": [],
+      "associated_series": [
+        626
+      ],
+      "translations": {
+        "fr": 629,
+        "en": 4518,
+        "de": 6239,
+        "es": 8000
+      },
+      "source": {
+        "url": "https://sxsw.com/about/history/",
+        "label": "SXSW — History of SXSW",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "sxsw-history",
+      "id": 4518,
+      "language": "en",
+      "slug": "which-festival-started-as-a-technology-conference-before-becoming-famous-for-its-live-music",
+      "question": "Which festival began as a music festival in 1987 before later adding Film and Interactive?",
+      "options": [
+        "SXSW (South by Southwest)",
+        "Coachella",
+        "Tomorrowland",
+        "Ultra Music Festival"
+      ],
+      "correct_indicators": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "correct_answer": "SXSW (South by Southwest)",
+      "anecdote": "SXSW began in Austin in 1987 as a music festival and conference created to give the city’s music community greater exposure. In 1994, Film and Interactive were added. Today, SXSW brings together music, film, technology, education and culture, but its origin was music—not a technology conference.",
+      "image": 4519,
+      "categories": [],
+      "associated_series": [
+        3156
+      ],
+      "translations": {
+        "en": 4518,
+        "fr": 629,
+        "de": 6239,
+        "es": 8000
+      },
+      "source": {
+        "url": "https://sxsw.com/about/history/",
+        "label": "SXSW — History of SXSW",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "sxsw-history",
+      "id": 6239,
+      "language": "de",
+      "slug": "welches-festival-begann-1987-mit-musik-und-erganzte-spater-die-bereiche-film-und-interactive",
+      "question": "Welches Festival begann 1987 mit Musik und ergänzte später die Bereiche Film und Interactive?",
+      "options": [
+        "SXSW (South by Southwest)",
+        "Coachella",
+        "Tomorrowland",
+        "Ultra Music Festival"
+      ],
+      "correct_indicators": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "correct_answer": "SXSW (South by Southwest)",
+      "anecdote": "SXSW begann 1987 in Austin als Musikfestival und Konferenz, die der lokalen Szene mehr Aufmerksamkeit verschaffen sollte. 1994 kamen die Bereiche Film und Interactive hinzu.\n\nHeute verbindet die Veranstaltung Musik, Film, Technik, Bildung und Kultur. Ihre Wurzeln liegen jedoch eindeutig in der Musik und nicht, wie manchmal angenommen, in einer Technologiekonferenz.",
+      "image": 4519,
+      "categories": [],
+      "associated_series": [
+        5450
+      ],
+      "translations": {
+        "de": 6239,
+        "en": 4518,
+        "fr": 629,
+        "es": 8000
+      },
+      "source": {
+        "url": "https://sxsw.com/about/history/",
+        "label": "SXSW — History of SXSW",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "sxsw-history",
+      "id": 8000,
+      "language": "es",
+      "slug": "que-festival-comenzo-como-encuentro-musical-en-1987-y-anadio-despues-las-secciones-de-cine-e-interactividad",
+      "question": "¿Qué festival comenzó como encuentro musical en 1987 y añadió después las secciones de Cine e Interactividad?",
+      "options": [
+        "SXSW (South by Southwest)",
+        "Coachella",
+        "Tomorrowland",
+        "Ultra Music Festival"
+      ],
+      "correct_indicators": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "correct_answer": "SXSW (South by Southwest)",
+      "anecdote": "SXSW nació en Austin en 1987 como festival y conferencia musical destinados a dar mayor visibilidad a la escena de la ciudad. Las secciones de Cine e Interactividad se añadieron en 1994.\n\nHoy reúne música, cine, tecnología, educación y cultura, pero su origen estuvo en la música y no en una conferencia tecnológica.",
+      "image": 4519,
+      "categories": [],
+      "associated_series": [
+        7211
+      ],
+      "translations": {
+        "es": 8000,
+        "en": 4518,
+        "fr": 629,
+        "de": 6239
+      },
+      "source": {
+        "url": "https://sxsw.com/about/history/",
+        "label": "SXSW — History of SXSW",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "maroon-communities",
+      "id": 1262,
+      "language": "fr",
+      "slug": "quel-peuple-autochtone-est-celebre-pour-son-role-central-dans-la-revolution-haitienne-menant-a-lindependance-du-pays-en-1804",
+      "question": "Quelles communautés d’Africains ayant échappé à l’esclavage ont contribué au déclenchement de la Révolution haïtienne ?",
+      "options": [
+        "Les Tainos",
+        "Les Arawaks",
+        "Les Caribes",
+        "Les Marrons"
+      ],
+      "correct_indicators": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "correct_answer": "Les Marrons",
+      "anecdote": "Les communautés marronnes étaient formées d’Africains ayant échappé à l’esclavage et de leurs descendants. Dans la colonie française de Saint-Domingue, elles ont résisté au pouvoir colonial et contribué au déclenchement de la Révolution haïtienne, qui mena à l’indépendance d’Haïti en 1804. Il ne s’agissait pas d’un peuple autochtone : leur histoire relève surtout de la diaspora africaine et de la résistance à l’esclavage.",
+      "image": 1317,
+      "categories": [],
+      "associated_series": [
+        1255
+      ],
+      "translations": {
+        "fr": 1262,
+        "en": 4087,
+        "de": 6024,
+        "es": 7785
+      },
+      "source": {
+        "url": "https://folkways.si.edu/rebel-tour-maroon-communities/african-amerian-struggle-protest/music/article/smithsonian",
+        "label": "Smithsonian Folkways — Maroon communities",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "maroon-communities",
+      "id": 4087,
+      "language": "en",
+      "slug": "which-indigenous-people-are-famous-for-their-central-role-in-the-haitian-revolution-of-1804",
+      "question": "Which communities of self-liberated Africans helped launch the Haitian Revolution?",
+      "options": [
+        "The Tainos",
+        "The Arawaks",
+        "The Caribs",
+        "The Maroons"
+      ],
+      "correct_indicators": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "correct_answer": "The Maroons",
+      "anecdote": "Maroon communities were formed by Africans who escaped slavery and their descendants. In the French colony of Saint-Domingue, Maroons resisted colonial rule and helped launch the Haitian Revolution, which led to Haiti’s independence in 1804. They were not an Indigenous people: their history is rooted chiefly in the African diaspora and resistance to enslavement.",
+      "image": 1318,
+      "categories": [],
+      "associated_series": [
+        3171
+      ],
+      "translations": {
+        "en": 4087,
+        "fr": 1262,
+        "de": 6024,
+        "es": 7785
+      },
+      "source": {
+        "url": "https://folkways.si.edu/rebel-tour-maroon-communities/african-amerian-struggle-protest/music/article/smithsonian",
+        "label": "Smithsonian Folkways — Maroon communities",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "maroon-communities",
+      "id": 6024,
+      "language": "de",
+      "slug": "welche-gemeinschaften-selbstbefreiter-afrikaner-trugen-zum-beginn-der-haitianischen-revolution-bei",
+      "question": "Welche Gemeinschaften selbstbefreiter Afrikaner trugen zum Beginn der Haitianischen Revolution bei?",
+      "options": [
+        "Taíno",
+        "Arawak",
+        "Kariben",
+        "Maroons"
+      ],
+      "correct_indicators": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "correct_answer": "Maroons",
+      "anecdote": "Maroons waren aus der Sklaverei geflohene Afrikaner und ihre Nachkommen. In der französischen Kolonie Saint-Domingue widersetzten sich ihre Gemeinschaften der Kolonialherrschaft und wirkten an den Kämpfen mit, die 1804 zur Unabhängigkeit Haitis führten.\n\nSie waren kein indigenes Volk der Karibik; ihre Geschichte gehört zur afrikanischen Diaspora und zum Widerstand gegen Versklavung.",
+      "image": 1318,
+      "categories": [],
+      "associated_series": [
+        5465
+      ],
+      "translations": {
+        "de": 6024,
+        "en": 4087,
+        "fr": 1262,
+        "es": 7785
+      },
+      "source": {
+        "url": "https://folkways.si.edu/rebel-tour-maroon-communities/african-amerian-struggle-protest/music/article/smithsonian",
+        "label": "Smithsonian Folkways — Maroon communities",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "maroon-communities",
+      "id": 7785,
+      "language": "es",
+      "slug": "que-comunidades-de-africanos-que-se-liberaron-de-la-esclavitud-ayudaron-a-impulsar-la-revolucion-haitiana",
+      "question": "¿Qué comunidades de africanos que se liberaron de la esclavitud ayudaron a impulsar la Revolución haitiana?",
+      "options": [
+        "Los taínos",
+        "Los arahuacos",
+        "Los caribes",
+        "Los cimarrones"
+      ],
+      "correct_indicators": [
+        false,
+        false,
+        false,
+        true
+      ],
+      "correct_answer": "Los cimarrones",
+      "anecdote": "Las comunidades cimarronas estaban formadas por africanos que habían escapado de la esclavitud y por sus descendientes. Crearon asentamientos autónomos, preservaron prácticas culturales y resistieron tanto a los propietarios esclavistas como al poder colonial.\n\nEn la colonia francesa de Saint-Domingue participaron en esa resistencia y contribuyeron al proceso revolucionario que desembocó en la independencia de Haití en 1804. No constituían un pueblo indígena del Caribe: su historia pertenece principalmente a la diáspora africana, a la lucha contra la esclavitud y a la formación de nuevas comunidades libres en América.",
+      "image": 1318,
+      "categories": [],
+      "associated_series": [
+        7226
+      ],
+      "translations": {
+        "es": 7785,
+        "en": 4087,
+        "fr": 1262,
+        "de": 6024
+      },
+      "source": {
+        "url": "https://folkways.si.edu/rebel-tour-maroon-communities/african-amerian-struggle-protest/music/article/smithsonian",
+        "label": "Smithsonian Folkways — Maroon communities",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "javelin-record",
+      "id": 2437,
+      "language": "fr",
+      "slug": "quel-athlete-detient-le-record-du-monde-du-lancer-du-javelot-masculin",
+      "question": "Quel athlète détient le record du monde du lancer du javelot masculin ?",
+      "options": [
+        "Andreas Thorkildsen",
+        "Uwe Hohn",
+        "Jan Železný",
+        "Johannes Vetter"
+      ],
+      "correct_indicators": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "correct_answer": "Jan Železný",
+      "anecdote": "Jan Železný détient le record du monde masculin du lancer du javelot avec 98,48 m, réalisés à Iéna, en Allemagne, le 25 mai 1996. World Athletics le classe toujours en tête de la liste mondiale, devant Johannes Vetter et ses 97,76 m. Le Tchèque a également remporté trois titres olympiques. Record vérifié le 9 août 2026.",
+      "image": 2848,
+      "categories": [],
+      "associated_series": [
+        2432
+      ],
+      "translations": {
+        "fr": 2437,
+        "en": 3702,
+        "de": 5706,
+        "es": 7467
+      },
+      "source": {
+        "url": "https://worldathletics.org/records/all-time-toplists/throws/javelin-throw/all/men/senior",
+        "label": "World Athletics — Javelin Throw Men",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "javelin-record",
+      "id": 3702,
+      "language": "en",
+      "slug": "which-athlete-holds-the-mens-world-javelin-throw-record",
+      "question": "Which athlete holds the men&#8217;s world javelin throw record?",
+      "options": [
+        "Andreas Thorkildsen",
+        "Uwe Hohn",
+        "Jan Železný",
+        "Johannes Vetter"
+      ],
+      "correct_indicators": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "correct_answer": "Jan Železný",
+      "anecdote": "Jan Železný holds the men’s javelin world record with 98.48m, achieved in Jena, Germany, on 25 May 1996. World Athletics still ranks him first on the all-time list, ahead of Johannes Vetter’s 97.76m. The Czech athlete also won three Olympic titles. Record checked on 9 August 2026.",
+      "image": 3703,
+      "categories": [],
+      "associated_series": [
+        3209
+      ],
+      "translations": {
+        "en": 3702,
+        "fr": 2437,
+        "de": 5706,
+        "es": 7467
+      },
+      "source": {
+        "url": "https://worldathletics.org/records/all-time-toplists/throws/javelin-throw/all/men/senior",
+        "label": "World Athletics — Javelin Throw Men",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "javelin-record",
+      "id": 5706,
+      "language": "de",
+      "slug": "wer-halt-den-weltrekord-im-speerwurf-der-manner",
+      "question": "Wer hält den Weltrekord im Speerwurf der Männer?",
+      "options": [
+        "Andreas Thorkildsen",
+        "Uwe Hohn",
+        "Jan Železný",
+        "Johannes Vetter"
+      ],
+      "correct_indicators": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "correct_answer": "Jan Železný",
+      "anecdote": "Jan Železný warf den seit 1986 verwendeten Speertyp am 25. Mai 1996 in Jena 98,48 Meter weit. Die Bestmarke des Tschechen besteht seit Jahrzehnten.\n\nŽelezný gewann außerdem drei olympische Goldmedaillen in Folge. Uwe Hohns früherer Wurf über 100 Meter zählt zu einem alten Speermodell, dessen Schwerpunkt aus Sicherheitsgründen verändert wurde.",
+      "image": 3703,
+      "categories": [],
+      "associated_series": [
+        5502
+      ],
+      "translations": {
+        "de": 5706,
+        "en": 3702,
+        "fr": 2437,
+        "es": 7467
+      },
+      "source": {
+        "url": "https://worldathletics.org/records/all-time-toplists/throws/javelin-throw/all/men/senior",
+        "label": "World Athletics — Javelin Throw Men",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "javelin-record",
+      "id": 7467,
+      "language": "es",
+      "slug": "que-atleta-posee-el-record-mundial-masculino-de-lanzamiento-de-jabalina",
+      "question": "¿Qué atleta posee el récord mundial masculino de lanzamiento de jabalina?",
+      "options": [
+        "Andreas Thorkildsen",
+        "Uwe Hohn",
+        "Jan Železný",
+        "Johannes Vetter"
+      ],
+      "correct_indicators": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "correct_answer": "Jan Železný",
+      "anecdote": "Jan Železný posee el récord mundial masculino de jabalina con 98,48 metros, logrados en Jena, Alemania, el 25 de mayo de 1996. World Athletics seguía situándolo en primer lugar en la fecha de la auditoría, por delante de los 97,76 metros de Johannes Vetter.\n\nEl atleta checo ganó además tres títulos olímpicos y es considerado uno de los mejores lanzadores de la historia.",
+      "image": 3703,
+      "categories": [],
+      "associated_series": [
+        7263
+      ],
+      "translations": {
+        "es": 7467,
+        "en": 3702,
+        "fr": 2437,
+        "de": 5706
+      },
+      "source": {
+        "url": "https://worldathletics.org/records/all-time-toplists/throws/javelin-throw/all/men/senior",
+        "label": "World Athletics — Javelin Throw Men",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "new-zealand-capital",
+      "id": 976,
+      "language": "fr",
+      "slug": "quelle-est-la-capitale-de-laustralie",
+      "question": "Quelle est la capitale de la Nouvelle-Zélande, souvent confondue avec sa ville la plus peuplée, Auckland ?",
+      "options": [
+        "Wellington",
+        "Christchurch",
+        "Auckland",
+        "Dunedin"
+      ],
+      "correct_indicators": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "correct_answer": "Wellington",
+      "anecdote": "Wellington est la capitale de la Nouvelle-Zélande depuis 1865. Elle accueille le Parlement, les bureaux du Cabinet et du Premier ministre, ainsi que les plus hautes juridictions du pays. Auckland, qui fut la capitale de 1841 à 1865, est aujourd’hui nettement plus peuplée, ce qui explique la confusion fréquente.",
+      "image": 1083,
+      "categories": [],
+      "associated_series": [
+        975
+      ],
+      "translations": {
+        "fr": 976,
+        "en": 4292,
+        "de": 6130,
+        "es": 7891
+      },
+      "source": {
+        "url": "https://teara.govt.nz/en/capital-city",
+        "label": "Te Ara — Capital city",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "new-zealand-capital",
+      "id": 4292,
+      "language": "en",
+      "slug": "what-is-the-capital-of-new-zealand-often-confused-with-its-most-populous-city-auckland",
+      "question": "What is the capital of New Zealand, often confused with its most populous city, Auckland?",
+      "options": [
+        "Wellington",
+        "Christchurch",
+        "Auckland",
+        "Dunedin"
+      ],
+      "correct_indicators": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "correct_answer": "Wellington",
+      "anecdote": "Wellington has been New Zealand’s capital since 1865. It is home to Parliament, the offices of Cabinet and the prime minister, and the country’s highest courts. Auckland, which served as the capital from 1841 to 1865, is now much more populous, which explains the frequent confusion.",
+      "image": 4293,
+      "categories": [],
+      "associated_series": [
+        3167
+      ],
+      "translations": {
+        "en": 4292,
+        "fr": 976,
+        "de": 6130,
+        "es": 7891
+      },
+      "source": {
+        "url": "https://teara.govt.nz/en/capital-city",
+        "label": "Te Ara — Capital city",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "new-zealand-capital",
+      "id": 6130,
+      "language": "de",
+      "slug": "wie-heist-die-hauptstadt-neuseelands-die-oft-mit-der-groseren-stadt-auckland-verwechselt-wird",
+      "question": "Wie heißt die Hauptstadt Neuseelands, die oft mit der größeren Stadt Auckland verwechselt wird?",
+      "options": [
+        "Wellington",
+        "Christchurch",
+        "Auckland",
+        "Dunedin"
+      ],
+      "correct_indicators": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "correct_answer": "Wellington",
+      "anecdote": "Wellington ist seit 1865 Hauptstadt Neuseelands und Sitz von Parlament, Regierung und den höchsten Gerichten. Die Lage an der Cookstraße verbindet die Nord- und Südinsel strategisch.\n\nAuckland war von 1841 bis 1865 Hauptstadt und ist heute mit großem Abstand die bevölkerungsreichere Stadt. Daher wird sie häufig fälschlich für die Hauptstadt gehalten.",
+      "image": 4293,
+      "categories": [],
+      "associated_series": [
+        5461
+      ],
+      "translations": {
+        "de": 6130,
+        "en": 4292,
+        "fr": 976,
+        "es": 7891
+      },
+      "source": {
+        "url": "https://teara.govt.nz/en/capital-city",
+        "label": "Te Ara — Capital city",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "new-zealand-capital",
+      "id": 7891,
+      "language": "es",
+      "slug": "cual-es-la-capital-de-nueva-zelanda-a-menudo-confundida-con-la-ciudad-mas-poblada-auckland",
+      "question": "¿Cuál es la capital de Nueva Zelanda, a menudo confundida con la ciudad más poblada, Auckland?",
+      "options": [
+        "Wellington",
+        "Christchurch",
+        "Auckland",
+        "Dunedin"
+      ],
+      "correct_indicators": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "correct_answer": "Wellington",
+      "anecdote": "Wellington es la capital de Nueva Zelanda desde 1865. Alberga el Parlamento, las oficinas del Gobierno y del primer ministro, así como los tribunales superiores del país.\n\nAuckland había ejercido como capital entre 1841 y 1865, antes de que las instituciones se trasladaran a Wellington por su posición más central entre las dos grandes islas. En la actualidad, Auckland posee una población considerablemente mayor y es el principal centro urbano y económico neozelandés.\n\nEsa diferencia de tamaño y proyección internacional explica que muchas personas la confundan todavía con la capital política.",
+      "image": 4293,
+      "categories": [],
+      "associated_series": [
+        7222
+      ],
+      "translations": {
+        "es": 7891,
+        "en": 4292,
+        "fr": 976,
+        "de": 6130
+      },
+      "source": {
+        "url": "https://teara.govt.nz/en/capital-city",
+        "label": "Te Ara — Capital city",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "festival-in-the-desert",
+      "id": 633,
+      "language": "fr",
+      "slug": "dans-quel-festival-international-peut-on-vivre-lexperience-unique-de-concerts-dans-un-desert",
+      "question": "Quel festival malien est devenu célèbre pour ses concerts en plein air dans le Sahara près de Tombouctou ?",
+      "options": [
+        "Burning Man",
+        "Festival au Désert",
+        "Coachella",
+        "Desert Daze"
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Festival au Désert",
+      "anecdote": "Créé en 2001, le Festival au Désert se tenait à Essakane, près de Tombouctou, et mettait en avant les musiques touarègues aux côtés d’artistes du monde entier. La crise politico-sécuritaire de 2012 et l’interdiction de la musique dans le nord du Mali ont empêché son retour sur son site. L’organisation a ensuite fait vivre ses valeurs de paix et de tolérance sous forme d’une caravane itinérante et de concerts en exil.",
+      "image": 645,
+      "categories": [],
+      "associated_series": [
+        626
+      ],
+      "translations": {
+        "fr": 633,
+        "en": 4512,
+        "de": 6236,
+        "es": 7997
+      },
+      "source": {
+        "url": "https://www.essakaneproduction.com/thepeacecaravan",
+        "label": "Essakane Production — Festival au Désert",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "festival-in-the-desert",
+      "id": 4512,
+      "language": "en",
+      "slug": "dans-quel-festival-international-peut-on-vivre-lexperience-unique-de-concerts-dans-un-desert",
+      "question": "Which Malian festival became famous for open-air concerts in the Sahara near Timbuktu?",
+      "options": [
+        "Burning Man",
+        "Festival in the Desert",
+        "Coachella",
+        "Desert Daze"
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Festival in the Desert",
+      "anecdote": "Founded in 2001, the Festival in the Desert was held at Essakane, near Timbuktu, showcasing Tuareg music alongside artists from around the world. The 2012 political and security crisis and the ban on music in northern Mali prevented the event from returning to its site. Its organisers later carried its message of peace and tolerance through a touring caravan and concerts in exile.",
+      "image": 4513,
+      "categories": [],
+      "associated_series": [
+        3156
+      ],
+      "translations": {
+        "en": 4512,
+        "fr": 633,
+        "de": 6236,
+        "es": 7997
+      },
+      "source": {
+        "url": "https://www.essakaneproduction.com/thepeacecaravan",
+        "label": "Essakane Production — Festival au Désert",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "festival-in-the-desert",
+      "id": 6236,
+      "language": "de",
+      "slug": "welches-malische-festival-wurde-durch-freiluftkonzerte-in-der-sahara-nahe-timbuktu-bekannt",
+      "question": "Welches malische Festival wurde durch Freiluftkonzerte in der Sahara nahe Timbuktu bekannt?",
+      "options": [
+        "Burning Man",
+        "Festival au Désert",
+        "Coachella",
+        "Desert Daze"
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Festival au Désert",
+      "anecdote": "Das 2001 gegründete „Festival au Désert“ fand bei Essakane nahe Timbuktu statt und präsentierte Tuareg-Musik neben Künstlern aus aller Welt.\n\nDie politische und sicherheitspolitische Krise von 2012 verhinderte eine Rückkehr an den ursprünglichen Ort. Die Organisatoren trugen die Botschaft von Frieden und Verständigung später mit einer reisenden Karawane und Konzerten im Exil weiter.",
+      "image": 4513,
+      "categories": [],
+      "associated_series": [
+        5450
+      ],
+      "translations": {
+        "de": 6236,
+        "fr": 633,
+        "en": 4512,
+        "es": 7997
+      },
+      "source": {
+        "url": "https://www.essakaneproduction.com/thepeacecaravan",
+        "label": "Essakane Production — Festival au Désert",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "festival-in-the-desert",
+      "id": 7997,
+      "language": "es",
+      "slug": "que-festival-maliense-se-hizo-famoso-por-sus-conciertos-al-aire-libre-en-el-sahara-cerca-de-tombuctu",
+      "question": "¿Qué festival maliense se hizo famoso por sus conciertos al aire libre en el Sáhara, cerca de Tombuctú?",
+      "options": [
+        "Burning Man",
+        "Festival au Désert",
+        "Coachella",
+        "Desert Daze"
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Festival au Désert",
+      "anecdote": "Fundado en 2001, el Festival au Désert se celebraba en Essakane, cerca de Tombuctú, y reunía música tuareg con artistas de todo el mundo. La crisis política y de seguridad de 2012, junto con la prohibición de la música en el norte de Malí, impidió su regreso al lugar original.\n\nSus organizadores mantuvieron vivo su mensaje de paz y tolerancia mediante una caravana itinerante y conciertos en el exilio.",
+      "image": 4513,
+      "categories": [],
+      "associated_series": [
+        7211
+      ],
+      "translations": {
+        "es": 7997,
+        "fr": 633,
+        "en": 4512,
+        "de": 6236
+      },
+      "source": {
+        "url": "https://www.essakaneproduction.com/thepeacecaravan",
+        "label": "Essakane Production — Festival au Désert",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "blue-note-new-york",
+      "id": 456,
+      "language": "fr",
+      "slug": "lequel-de-ces-clubs-de-jazz-est-celebre-a-new-york",
+      "question": "Quel club de jazz a ouvert dans Greenwich Village, à New York, en 1981 ?",
+      "options": [
+        "The Blue Note",
+        "The Cotton Club",
+        "Birdland",
+        "Village Vanguard."
+      ],
+      "correct_indicators": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "correct_answer": "The Blue Note",
+      "anecdote": "Le Blue Note ouvrit en 1981 dans Greenwich Village, à New York, à l’initiative de Danny Bensusan. Le club voulait offrir aux artistes de jazz un lieu intimiste où la musique resterait au centre de l’expérience. Il accueillit au fil du temps des musiciens tels que Sarah Vaughan, Dizzy Gillespie, Oscar Peterson, Ray Brown, Stanley Turrentine et Tito Puente, puis développa des établissements et partenariats ailleurs dans le monde. John Coltrane, mort en 1967, ne pouvait évidemment pas s’y être produit. Le Cotton Club, Birdland et le Village Vanguard appartiennent à d’autres périodes importantes de l’histoire du jazz new-yorkais.",
+      "image": 467,
+      "categories": [],
+      "associated_series": [
+        451
+      ],
+      "translations": {
+        "fr": 456,
+        "en": 4629,
+        "de": 6286,
+        "es": 8047
+      },
+      "source": {
+        "url": "https://www.bluenotejazz.com/nyc/about/",
+        "label": "Blue Note New York — About",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "blue-note-new-york",
+      "id": 4629,
+      "language": "en",
+      "slug": "which-new-york-jazz-club-is-famous-for-having-hosted-legends-like-miles-davis-and-john-coltrane",
+      "question": "What jazz club opened in Greenwich Village, New York, in 1981?",
+      "options": [
+        "The Blue Note",
+        "The Cotton Club",
+        "Birdland",
+        "Village Vanguard"
+      ],
+      "correct_indicators": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "correct_answer": "The Blue Note",
+      "anecdote": "The Blue Note opened in 1981 in Greenwich Village, New York, on the initiative of Danny Bensusan. The club wanted to offer jazz artists an intimate place where music would remain at the center of the experience. Over time, it welcomed musicians such as Sarah Vaughan, Dizzy Gillespie, Oscar Peterson, Ray Brown, Stanley Turrentine and Tito Puente, then developed establishments and partnerships elsewhere in the world. John Coltrane, who died in 1967, obviously could not have performed there. The Cotton Club, Birdland and the Village Vanguard belong to other important periods in New York jazz history.",
+      "image": 4630,
+      "categories": [],
+      "associated_series": [
+        3151
+      ],
+      "translations": {
+        "en": 4629,
+        "fr": 456,
+        "de": 6286,
+        "es": 8047
+      },
+      "source": {
+        "url": "https://www.bluenotejazz.com/nyc/about/",
+        "label": "Blue Note New York — About",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "blue-note-new-york",
+      "id": 6286,
+      "language": "de",
+      "slug": "welcher-1981-eroffnete-new-yorker-jazzclub-wurde-zu-einer-internationalen-institution-des-genres",
+      "question": "Welcher 1981 eröffnete New Yorker Jazzclub wurde zu einer internationalen Institution des Genres?",
+      "options": [
+        "The Blue Note",
+        "The Cotton Club",
+        "Birdland",
+        "Alle genannten"
+      ],
+      "correct_indicators": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "correct_answer": "The Blue Note",
+      "anecdote": "Das Blue Note öffnete 1981 in Greenwich Village und entwickelte sich zu einem der bekanntesten Jazzclubs New Yorks. Musiker wie Dizzy Gillespie, Oscar Peterson und später auch zahlreiche jüngere Stars traten dort auf.\n\nDer intime Raum verbindet etablierte Größen mit neuen Talenten. Ableger in mehreren Ländern machten den Namen Blue Note zu einer internationalen Institution der Live-Jazzkultur.",
+      "image": 4630,
+      "categories": [],
+      "associated_series": [
+        5445
+      ],
+      "translations": {
+        "de": 6286,
+        "en": 4629,
+        "fr": 456,
+        "es": 8047
+      },
+      "source": {
+        "url": "https://www.bluenotejazz.com/nyc/about/",
+        "label": "Blue Note New York — About",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "blue-note-new-york",
+      "id": 8047,
+      "language": "es",
+      "slug": "que-club-de-jazz-abrio-en-greenwich-village-nueva-york-en-1981",
+      "question": "¿Qué club de jazz abrió en Greenwich Village, Nueva York, en 1981?",
+      "options": [
+        "The Blue Note",
+        "The Cotton Club",
+        "Birdland",
+        "Village Vanguard"
+      ],
+      "correct_indicators": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "correct_answer": "The Blue Note",
+      "anecdote": "The Blue Note abrió en 1981 en Greenwich Village por iniciativa de Danny Bensusan. Su objetivo era ofrecer a los artistas de jazz un espacio íntimo donde la música ocupara el centro de la experiencia.\n\nCon el tiempo acogió a músicos como Sarah Vaughan, Dizzy Gillespie, Oscar Peterson, Ray Brown, Stanley Turrentine y Tito Puente, y después extendió su nombre a otros lugares del mundo. John Coltrane, fallecido en 1967, no pudo actuar allí.\n\nThe Cotton Club, Birdland y Village Vanguard pertenecen a otros periodos importantes de la historia del jazz neoyorquino.",
+      "image": 4630,
+      "categories": [],
+      "associated_series": [
+        7206
+      ],
+      "translations": {
+        "es": 8047,
+        "en": 4629,
+        "fr": 456,
+        "de": 6286
+      },
+      "source": {
+        "url": "https://www.bluenotejazz.com/nyc/about/",
+        "label": "Blue Note New York — About",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "black-billed-parrot",
+      "id": 1047,
+      "language": "fr",
+      "slug": "quelle-ile-situee-dans-la-mer-des-caraibes-est-le-seul-habitat-au-monde-du-perroquet-jaco",
+      "question": "Quelle île des Caraïbes est l’unique habitat naturel de l’Amazone verte (Amazona agilis) ?",
+      "options": [
+        "Cuba",
+        "Jamaïque",
+        "Hispaniola",
+        "Porto Rico."
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Jamaïque",
+      "anecdote": "L’Amazone verte, aussi appelée amazone à bec noir, porte le nom scientifique « Amazona agilis ». Ce perroquet est endémique de la Jamaïque : à l’état sauvage, il ne vit nulle part ailleurs. Il fréquente principalement les forêts humides de montagne, notamment dans les Blue Mountains et le Cockpit Country, où il se nourrit de fruits, de graines et de fleurs. Son bec sombre permet de le distinguer de l’Amazone à bec jaune, l’autre amazone endémique de l’île. Le perroquet jaco est une espèce différente, originaire d’Afrique centrale et occidentale, et ne doit pas être associé à la Jamaïque.",
+      "image": 1057,
+      "categories": [],
+      "associated_series": [
+        1039
+      ],
+      "translations": {
+        "fr": 1047,
+        "en": 4244,
+        "de": 6102,
+        "es": 7863
+      },
+      "source": {
+        "url": "https://jis.gov.jm/jamaican-parrots-being-sold-illegally/",
+        "label": "Jamaica Information Service — Jamaican parrots",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "black-billed-parrot",
+      "id": 4244,
+      "language": "en",
+      "slug": "which-island-located-in-the-caribbean-sea-is-the-only-habitat-in-the-world-for-the-jaco-parrot",
+      "question": "Which Caribbean island is the only natural habitat of the black-billed amazon (Amazona agilis)?",
+      "options": [
+        "Cuba",
+        "Jamaica",
+        "Hispaniola",
+        "Puerto Rico"
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Jamaica",
+      "anecdote": "The black-billed amazon, whose scientific name is “Amazona agilis,” is endemic to Jamaica and occurs naturally nowhere else. It mainly inhabits humid mountain forests, including areas in the Blue Mountains and Cockpit Country, where it feeds on fruit, seeds and flowers. Its dark bill helps distinguish it from the yellow-billed amazon, Jamaica’s other endemic amazon parrot. The African grey parrot, sometimes called the grey or Congo grey, is a different species native to parts of central and western Africa. It should not be described as an endemic Jamaican bird.",
+      "image": 4228,
+      "categories": [],
+      "associated_series": [
+        3169
+      ],
+      "translations": {
+        "en": 4244,
+        "fr": 1047,
+        "de": 6102,
+        "es": 7863
+      },
+      "source": {
+        "url": "https://jis.gov.jm/jamaican-parrots-being-sold-illegally/",
+        "label": "Jamaica Information Service — Jamaican parrots",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "black-billed-parrot",
+      "id": 6102,
+      "language": "de",
+      "slug": "welche-karibikinsel-ist-die-einzige-heimat-der-jamaika-amazone",
+      "question": "Welche Karibikinsel ist die einzige Heimat der Jamaika-Amazone?",
+      "options": [
+        "Kuba",
+        "Jamaika",
+        "Hispaniola",
+        "Puerto Rico"
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Jamaika",
+      "anecdote": "Die Jamaika-Amazone, auch Gelbschnabelamazone genannt, kommt ausschließlich auf Jamaika vor. Der farbenprächtige Papagei lebt vor allem in den Wäldern des Inselinneren.\n\nIndem er Früchte frisst und Samen verbreitet, trägt er zur Erneuerung des Waldes bei. Der Schutz geeigneter Lebensräume ist entscheidend für das Überleben dieser endemischen Art.",
+      "image": 4228,
+      "categories": [],
+      "associated_series": [
+        5463
+      ],
+      "translations": {
+        "de": 6102,
+        "en": 4244,
+        "fr": 1047,
+        "es": 7863
+      },
+      "source": {
+        "url": "https://jis.gov.jm/jamaican-parrots-being-sold-illegally/",
+        "label": "Jamaica Information Service — Jamaican parrots",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "black-billed-parrot",
+      "id": 7863,
+      "language": "es",
+      "slug": "que-isla-caribena-es-el-unico-habitat-natural-del-loro-de-pico-negro-amazona-agilis",
+      "question": "¿Qué isla caribeña es el único hábitat natural del loro de pico negro «Amazona agilis»?",
+      "options": [
+        "Cuba",
+        "Jamaica",
+        "La Española",
+        "Puerto Rico"
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Jamaica",
+      "anecdote": "El loro de pico negro, cuyo nombre científico es «Amazona agilis», es endémico de Jamaica y no vive de forma natural en ningún otro lugar. Habita principalmente los bosques húmedos de montaña, incluidos los de las Blue Mountains y Cockpit Country, donde se alimenta de frutos, semillas y flores.\n\nSu pico oscuro permite distinguirlo del loro de pico amarillo, la otra amazona endémica de la isla. El loro gris africano o yaco es una especie completamente diferente, originaria de África central y occidental, por lo que no debe relacionarse con Jamaica.",
+      "image": 4228,
+      "categories": [],
+      "associated_series": [
+        7224
+      ],
+      "translations": {
+        "es": 7863,
+        "en": 4244,
+        "fr": 1047,
+        "de": 6102
+      },
+      "source": {
+        "url": "https://jis.gov.jm/jamaican-parrots-being-sold-illegally/",
+        "label": "Jamaica Information Service — Jamaican parrots",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "first-circumnavigation",
+      "id": 1399,
+      "language": "fr",
+      "slug": "qui-a-ete-le-premier-explorateur-a-realiser-le-tour-du-monde",
+      "question": "Quel explorateur a lancé l’expédition du premier tour du monde, achevée par Juan Sebastián Elcano ?",
+      "options": [
+        "Marco Polo",
+        "Christophe Colomb",
+        "Ferdinand Magellan",
+        "Vasco de Gama."
+      ],
+      "correct_indicators": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "correct_answer": "Ferdinand Magellan",
+      "anecdote": "L’expédition partie d’Espagne en 1519 fut organisée sous le commandement de Ferdinand Magellan afin de rejoindre les îles aux épices par l’ouest. Magellan découvrit le passage qui porte aujourd’hui son nom et traversa l’océan Pacifique, mais il mourut aux Philippines en 1521. Juan Sebastián Elcano prit ensuite le commandement de la « Victoria » et ramena le navire en Espagne en septembre 1522. Elcano et les autres survivants revenus avec lui furent ainsi les premiers à accomplir un tour complet du globe. L’exploit doit donc être présenté comme une expédition initiée par Magellan et achevée par Elcano.",
+      "image": 1452,
+      "categories": [],
+      "associated_series": [
+        1398
+      ],
+      "translations": {
+        "fr": 1399,
+        "en": 4061,
+        "de": 6000,
+        "es": 7761
+      },
+      "source": {
+        "url": "https://www.unesco.org/en/memory-world/first-voyage-circumnavigation-fernao-de-magalhaes-and-juan-sebastian-elcano-1519-1522",
+        "label": "UNESCO — First voyage of circumnavigation",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "first-circumnavigation",
+      "id": 4061,
+      "language": "en",
+      "slug": "who-was-the-first-explorer-to-circumnavigate-the-globe",
+      "question": "Which explorer launched the first round-the-world expedition, completed by Juan Sebastián Elcano?",
+      "options": [
+        "Marco Polo",
+        "Christophe Colomb",
+        "Ferdinand Magellan",
+        "Vasco de Gama"
+      ],
+      "correct_indicators": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "correct_answer": "Ferdinand Magellan",
+      "anecdote": "The expedition that left Spain in 1519 was organized under the command of Ferdinand Magellan to reach the Spice Islands from the west. Magellan discovered the passage that today bears his name and crossed the Pacific Ocean, but he died in the Philippines in 1521. Juan Sebastián Elcano then took command of the \"Victoria\" and brought the ship back to Spain in September 1522. Elcano and the other survivors who returned with him were thus the first to complete a complete circumnavigation of the globe. The exploit must therefore be presented as an expedition initiated by Magellan and completed by Elcano.",
+      "image": 1453,
+      "categories": [],
+      "associated_series": [
+        3179
+      ],
+      "translations": {
+        "en": 4061,
+        "fr": 1399,
+        "de": 6000,
+        "es": 7761
+      },
+      "source": {
+        "url": "https://www.unesco.org/en/memory-world/first-voyage-circumnavigation-fernao-de-magalhaes-and-juan-sebastian-elcano-1519-1522",
+        "label": "UNESCO — First voyage of circumnavigation",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "first-circumnavigation",
+      "id": 6000,
+      "language": "de",
+      "slug": "unter-wessen-ursprunglichem-kommando-begann-die-expedition-der-die-erste-weltumsegelung-gelang",
+      "question": "Unter wessen ursprünglichem Kommando begann die Expedition, der die erste Weltumsegelung gelang?",
+      "options": [
+        "Marco Polo",
+        "Christoph Kolumbus",
+        "Ferdinand Magellan",
+        "Vasco da Gama"
+      ],
+      "correct_indicators": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "correct_answer": "Ferdinand Magellan",
+      "anecdote": "Ferdinand Magellan brach 1519 mit fünf Schiffen und etwa 270 Mann auf. Er fand die später nach ihm benannte Passage und überquerte den Pazifik, wurde aber 1521 auf den Philippinen getötet.\n\nJuan Sebastián Elcano führte die „Victoria“ 1522 mit nur 18 Männern nach Spanien zurück und vollendete damit die erste belegte Weltumsegelung. Die Reise zeigte vor allem die gewaltigen Ausmaße der Ozeane; die Kugelgestalt der Erde war Gelehrten längst bekannt.",
+      "image": 1453,
+      "categories": [],
+      "associated_series": [
+        5473
+      ],
+      "translations": {
+        "de": 6000,
+        "en": 4061,
+        "fr": 1399,
+        "es": 7761
+      },
+      "source": {
+        "url": "https://www.unesco.org/en/memory-world/first-voyage-circumnavigation-fernao-de-magalhaes-and-juan-sebastian-elcano-1519-1522",
+        "label": "UNESCO — First voyage of circumnavigation",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "first-circumnavigation",
+      "id": 7761,
+      "language": "es",
+      "slug": "que-explorador-inicio-la-primera-expedicion-alrededor-del-mundo-completada-por-juan-sebastian-elcano",
+      "question": "¿Qué explorador inició la primera expedición alrededor del mundo, completada por Juan Sebastián Elcano?",
+      "options": [
+        "Marco Polo",
+        "Cristóbal Colón",
+        "Fernando de Magallanes",
+        "Vasco da Gama"
+      ],
+      "correct_indicators": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "correct_answer": "Fernando de Magallanes",
+      "anecdote": "La expedición que partió de España en 1519 fue organizada bajo el mando de Fernando de Magallanes para llegar por el oeste a las islas de las Especias. Magallanes encontró el estrecho que hoy lleva su nombre y cruzó el Pacífico, pero murió en Filipinas en 1521.\n\nJuan Sebastián Elcano tomó después el mando de la nao «Victoria» y regresó a España en septiembre de 1522. Elcano y sus compañeros supervivientes fueron así los primeros en completar una circunnavegación del planeta.",
+      "image": 1453,
+      "categories": [],
+      "associated_series": [
+        7234
+      ],
+      "translations": {
+        "es": 7761,
+        "en": 4061,
+        "fr": 1399,
+        "de": 6000
+      },
+      "source": {
+        "url": "https://www.unesco.org/en/memory-world/first-voyage-circumnavigation-fernao-de-magalhaes-and-juan-sebastian-elcano-1519-1522",
+        "label": "UNESCO — First voyage of circumnavigation",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "galileo-telescope",
+      "id": 3063,
+      "language": "fr",
+      "slug": "qui-a-invente-le-premier-telescope-astronomique-pratique",
+      "question": "Quel savant a perfectionné la lunette et l’a utilisée dès 1609 pour des observations astronomiques pionnières ?",
+      "options": [
+        "Johannes Kepler",
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Albert Einstein."
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Galileo Galilei",
+      "anecdote": "Les premières lunettes d’approche connues apparurent aux Pays-Bas en 1608, et Hans Lipperhey demanda cette année-là un brevet pour un instrument rudimentaire. Ayant appris leur existence, Galilée construisit en 1609 ses propres modèles, en améliora rapidement le grossissement et les dirigea vers le ciel. Il observa le relief de la Lune, les satellites de Jupiter, les phases de Vénus et de nombreuses étoiles invisibles à l’œil nu. Ces observations transformèrent l’astronomie et soutinrent la remise en cause du modèle géocentrique. Galilée n’a donc pas inventé la lunette, mais il en fit l’un des premiers grands instruments de recherche astronomique.",
+      "image": 3075,
+      "categories": [],
+      "associated_series": [
+        3056
+      ],
+      "translations": {
+        "fr": 3063,
+        "en": 3326,
+        "de": 5525,
+        "es": 7286
+      },
+      "source": {
+        "url": "https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/modeling-the-cosmos/galileo-and-the-telescope/",
+        "label": "Library of Congress — Galileo and the telescope",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "galileo-telescope",
+      "id": 3326,
+      "language": "en",
+      "slug": "who-invented-the-first-practical-astronomical-telescope",
+      "question": "Which scientist perfected the telescope and used it in 1609 for pioneering astronomical observations?",
+      "options": [
+        "Johannes Kepler",
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Albert Einstein"
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Galileo Galilei",
+      "anecdote": "The first known telescopes appeared in the Netherlands in 1608, and Hans Lipperhey applied for a patent for a rudimentary instrument that year. Having learned of their existence, Galileo built his own models in 1609, quickly improved their magnification and aimed them towards the sky. He observed the relief of the Moon, the satellites of Jupiter, the phases of Venus and numerous stars invisible to the naked eye. These observations transformed astronomy and supported the questioning of the geocentric model. Galileo therefore did not invent the telescope, but he made it one of the first great instruments of astronomical research.",
+      "image": 3242,
+      "categories": [],
+      "associated_series": [
+        3227
+      ],
+      "translations": {
+        "en": 3326,
+        "fr": 3063,
+        "de": 5525,
+        "es": 7286
+      },
+      "source": {
+        "url": "https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/modeling-the-cosmos/galileo-and-the-telescope/",
+        "label": "Library of Congress — Galileo and the telescope",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "galileo-telescope",
+      "id": 5525,
+      "language": "de",
+      "slug": "wer-verbesserte-1609-das-fernrohr-und-setzte-es-systematisch-fur-astronomische-entdeckungen-ein",
+      "question": "Wer verbesserte 1609 das Fernrohr und setzte es systematisch für astronomische Entdeckungen ein?",
+      "options": [
+        "Johannes Kepler",
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Albert Einstein"
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Galileo Galilei",
+      "anecdote": "Galileo Galilei erfuhr 1609 von niederländischen Fernrohren, baute leistungsfähigere Varianten und richtete sie an den Himmel. Er beobachtete Mondberge, die Phasen der Venus, Sonnenflecken und vier große Jupitermonde.\n\nEr erfand das Fernrohr nicht als Erster; Hans Lipperhey beantragte 1608 in den Niederlanden ein frühes Patent. Galileis Veröffentlichungen machten das Instrument jedoch zu einem entscheidenden Werkzeug der Astronomie.",
+      "image": 3242,
+      "categories": [],
+      "associated_series": [
+        5520
+      ],
+      "translations": {
+        "de": 5525,
+        "fr": 3063,
+        "en": 3326,
+        "es": 7286
+      },
+      "source": {
+        "url": "https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/modeling-the-cosmos/galileo-and-the-telescope/",
+        "label": "Library of Congress — Galileo and the telescope",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "galileo-telescope",
+      "id": 7286,
+      "language": "es",
+      "slug": "que-cientifico-perfecciono-el-telescopio-y-lo-utilizo-en-1609-para-realizar-observaciones-astronomicas-pioneras",
+      "question": "¿Qué científico perfeccionó el telescopio y lo utilizó en 1609 para realizar observaciones astronómicas pioneras?",
+      "options": [
+        "Johannes Kepler",
+        "Galileo Galilei",
+        "Isaac Newton",
+        "Albert Einstein"
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Galileo Galilei",
+      "anecdote": "Los primeros telescopios conocidos aparecieron en los Países Bajos en 1608 y Hans Lipperhey solicitó una patente aquel año. Tras conocer su existencia, Galileo construyó modelos propios en 1609, aumentó rápidamente su potencia y los dirigió al cielo.\n\nObservó el relieve lunar, los satélites de Júpiter, las fases de Venus y estrellas invisibles a simple vista. No inventó el instrumento, pero lo convirtió en una herramienta decisiva de investigación astronómica.",
+      "image": 3242,
+      "categories": [],
+      "associated_series": [
+        7281
+      ],
+      "translations": {
+        "es": 7286,
+        "fr": 3063,
+        "en": 3326,
+        "de": 5525
+      },
+      "source": {
+        "url": "https://www.loc.gov/collections/finding-our-place-in-the-cosmos-with-carl-sagan/articles-and-essays/modeling-the-cosmos/galileo-and-the-telescope/",
+        "label": "Library of Congress — Galileo and the telescope",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "toy-story-computer-animation",
+      "id": 955,
+      "language": "fr",
+      "slug": "quel-est-le-premier-film-a-utiliser-lanimation-par-ordinateur-pour-lun-de-ses-personnages-principaux",
+      "question": "Quel film de 1995 est le premier long métrage entièrement réalisé en animation par ordinateur ?",
+      "options": [
+        "Jurassic Park",
+        "Toy Story",
+        "Tron",
+        "Avatar."
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Toy Story",
+      "anecdote": "Sorti en 1995, « Toy Story » est le premier long métrage entièrement réalisé en animation par ordinateur. Produit par Pixar et distribué par Disney, le film suit les jouets Woody et Buzz l’Éclair et combine innovation technique, comédie et récit d’amitié. Sa fabrication nécessita de nouveaux outils de modélisation, d’éclairage et de rendu adaptés à un film complet. Des œuvres antérieures, comme « Tron » ou « Jurassic Park », avaient déjà utilisé des images de synthèse pour des décors ou des personnages importants. Le record précis de « Toy Story » ne concerne donc pas le premier personnage principal numérique, mais le premier long métrage entièrement animé par ordinateur.",
+      "image": 965,
+      "categories": [],
+      "associated_series": [
+        951
+      ],
+      "translations": {
+        "fr": 955,
+        "en": 4307,
+        "de": 6137,
+        "es": 7898
+      },
+      "source": {
+        "url": "https://www.pixar.com/our-story",
+        "label": "Pixar — Our story",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "toy-story-computer-animation",
+      "id": 4307,
+      "language": "en",
+      "slug": "what-is-the-first-movie-to-use-computer-animation-for-one-of-its-main-characters",
+      "question": "Which 1995 film is the first feature film made entirely in computer animation?",
+      "options": [
+        "Jurassic Park",
+        "Toy Story",
+        "Tron",
+        "Avatar"
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Toy Story",
+      "anecdote": "\"Toy Story,\" released in 1995, made history as the first feature-length film entirely made with computer-generated imagery.\r\n\r\nThis Pixar masterpiece marked a turning point in the film industry, demonstrating that digital animation could create a universe as rich and emotional as traditional cinema.\r\n\r\nThe story of Woody and Buzz Lightyear was not just a technical feat; it was a captivating adventure that touched the hearts of millions of viewers, proving that digital art could compete with the most established art forms in terms of storytelling and emotional impact.",
+      "image": 4308,
+      "categories": [],
+      "associated_series": [
+        3166
+      ],
+      "translations": {
+        "en": 4307,
+        "fr": 955,
+        "de": 6137,
+        "es": 7898
+      },
+      "source": {
+        "url": "https://www.pixar.com/our-story",
+        "label": "Pixar — Our story",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "toy-story-computer-animation",
+      "id": 6137,
+      "language": "de",
+      "slug": "welcher-film-war-1995-der-erste-vollstandig-computeranimierte-kinofilm-in-spielfilmlange",
+      "question": "Welcher Film war 1995 der erste vollständig computeranimierte Kinofilm in Spielfilmlänge?",
+      "options": [
+        "Jurassic Park",
+        "Toy Story",
+        "Tron",
+        "Avatar"
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Toy Story",
+      "anecdote": "„Toy Story“ schrieb 1995 Filmgeschichte als erster vollständig mit Computeranimation produzierter Kinofilm in Spielfilmlänge.\n\nDas Werk von Pixar markierte einen Wendepunkt für die Filmindustrie und bewies, dass digitale Animation eine ebenso dichte und gefühlvolle Welt erschaffen konnte wie traditionelle Verfahren.\n\nDie Geschichte von Woody und Buzz Lightyear war weit mehr als eine technische Demonstration. Ihr Humor, ihre Spannung und ihre emotionalen Figuren erreichten Millionen Menschen. Damit zeigte der Film eindrucksvoll, dass digitale Kunst auch beim Erzählen und Berühren des Publikums mit etablierten Ausdrucksformen konkurrieren kann.",
+      "image": 4308,
+      "categories": [],
+      "associated_series": [
+        5460
+      ],
+      "translations": {
+        "de": 6137,
+        "en": 4307,
+        "fr": 955,
+        "es": 7898
+      },
+      "source": {
+        "url": "https://www.pixar.com/our-story",
+        "label": "Pixar — Our story",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "toy-story-computer-animation",
+      "id": 7898,
+      "language": "es",
+      "slug": "que-pelicula-de-1995-fue-el-primer-largometraje-realizado-integramente-con-animacion-por-ordenador",
+      "question": "¿Qué película de 1995 fue el primer largometraje realizado íntegramente con animación por ordenador?",
+      "options": [
+        "Jurassic Park",
+        "Toy Story",
+        "Tron",
+        "Avatar"
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Toy Story",
+      "anecdote": "«Toy Story», estrenada en 1995, fue el primer largometraje realizado íntegramente mediante animación por ordenador. Producida por Pixar y distribuida por Disney, sigue las aventuras de los juguetes Woody y Buzz Lightyear y combina innovación técnica, comedia y una historia de amistad.\n\nSu producción exigió desarrollar nuevas herramientas de modelado, iluminación y renderizado adaptadas a una película completa. Obras anteriores como «Tron» o «Jurassic Park» ya habían utilizado imágenes digitales para escenarios o personajes importantes.\n\nEl récord preciso de «Toy Story» no consiste, por tanto, en presentar el primer protagonista digital, sino en ser el primer largometraje animado por ordenador de principio a fin.",
+      "image": 4308,
+      "categories": [],
+      "associated_series": [
+        7221
+      ],
+      "translations": {
+        "es": 7898,
+        "en": 4307,
+        "fr": 955,
+        "de": 6137
+      },
+      "source": {
+        "url": "https://www.pixar.com/our-story",
+        "label": "Pixar — Our story",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "constantine-christianity",
+      "id": 1509,
+      "language": "fr",
+      "slug": "quel-est-le-nom-du-celebre-temple-dedie-a-la-deesse-athena-situe-sur-lacropole-a-athenes-2",
+      "question": "Quel empereur romain a accordé la tolérance au christianisme avec Licinius en 313 et favorisé son essor ?",
+      "options": [
+        "Néron",
+        "Constantin",
+        "Auguste",
+        "Marc Aurèle."
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Constantin",
+      "anecdote": "En 313, Constantin et Licinius publièrent des dispositions traditionnellement appelées édit de Milan, accordant aux chrétiens et aux autres groupes religieux la liberté de pratiquer leur culte. Constantin soutint ensuite l’Église, convoqua le concile de Nicée en 325 et fonda Constantinople, inaugurée en 330. Il reçut le baptême peu avant sa mort en 337. Il ne fit cependant pas du christianisme la religion officielle de l’Empire. Cette étape est associée à l’empereur Théodose Ier et à l’édit de Thessalonique de 380, qui établit le christianisme nicéen comme norme religieuse impériale. Son règne transforma durablement les rapports entre le pouvoir impérial et l’Église.",
+      "image": 1521,
+      "categories": [],
+      "associated_series": [
+        1506
+      ],
+      "translations": {
+        "fr": 1509,
+        "en": 4048,
+        "de": 5988,
+        "es": 7749
+      },
+      "source": {
+        "url": "https://byzantine-museum.gr/christian-byzantium/",
+        "label": "Byzantine and Christian Museum — Christian Byzantium",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "constantine-christianity",
+      "id": 4048,
+      "language": "en",
+      "slug": "which-roman-emperor-is-famous-for-being-the-first-to-convert-to-christianity-playing-a-key-role-in-its-spread-throughout-the-roman-empire",
+      "question": "Which Roman emperor granted tolerance to Christianity with Licinius in 313 and encouraged its growth?",
+      "options": [
+        "Nero",
+        "Constantine",
+        "Augustus",
+        "Marcus Aurelius"
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Constantine",
+      "anecdote": "In 313, Constantine and Licinius issued provisions traditionally known as the Edict of Milan, granting Christians and other religious groups the freedom to worship. Constantine then supported the Church, convened the Council of Nicaea in 325 and founded Constantinople, inaugurated in 330. He received baptism shortly before his death in 337. However, he did not make Christianity the official religion of the Empire. This stage is associated with Emperor Theodosius I and the Edict of Thessalonica of 380, which established Nicene Christianity as the imperial religious standard. His reign lastingly transformed the relationship between imperial power and the Church.",
+      "image": 1522,
+      "categories": [],
+      "associated_series": [
+        3181
+      ],
+      "translations": {
+        "en": 4048,
+        "fr": 1509,
+        "de": 5988,
+        "es": 7749
+      },
+      "source": {
+        "url": "https://byzantine-museum.gr/christian-byzantium/",
+        "label": "Byzantine and Christian Museum — Christian Byzantium",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "constantine-christianity",
+      "id": 5988,
+      "language": "de",
+      "slug": "welcher-romische-kaiser-forderte-das-christentum-und-ist-fur-seine-hinwendung-zu-diesem-glauben-bekannt",
+      "question": "Welcher römische Kaiser förderte das Christentum und ist für seine Hinwendung zu diesem Glauben bekannt?",
+      "options": [
+        "Nero",
+        "Konstantin der Große",
+        "Augustus",
+        "Mark Aurel"
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Konstantin der Große",
+      "anecdote": "Konstantin und Licinius gewährten 313 mit der Mailänder Vereinbarung weitgehende Religionsfreiheit. Konstantin unterstützte die Kirche politisch und finanziell und berief 325 das Konzil von Nicäa ein.\n\nEr ließ sich wahrscheinlich erst kurz vor seinem Tod taufen. Das Christentum wurde unter ihm noch nicht Staatsreligion; diesen Status erhielt die nicänische Glaubensrichtung erst 380 unter Theodosius I.",
+      "image": 1522,
+      "categories": [],
+      "associated_series": [
+        5474
+      ],
+      "translations": {
+        "de": 5988,
+        "en": 4048,
+        "fr": 1509,
+        "es": 7749
+      },
+      "source": {
+        "url": "https://byzantine-museum.gr/christian-byzantium/",
+        "label": "Byzantine and Christian Museum — Christian Byzantium",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "constantine-christianity",
+      "id": 7749,
+      "language": "es",
+      "slug": "que-emperador-romano-concedio-junto-con-licinio-libertad-de-culto-a-los-cristianos-en-313-y-favorecio-su-expansion",
+      "question": "¿Qué emperador romano concedió junto con Licinio libertad de culto a los cristianos en 313 y favoreció su expansión?",
+      "options": [
+        "Nerón",
+        "Constantino",
+        "Augusto",
+        "Marco Aurelio"
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Constantino",
+      "anecdote": "En 313, Constantino y Licinio promulgaron las disposiciones conocidas tradicionalmente como Edicto de Milán, que reconocían la libertad de culto de los cristianos y otros grupos religiosos. Constantino apoyó después a la Iglesia, convocó el Concilio de Nicea en 325 y fundó Constantinopla.\n\nSin embargo, no convirtió el cristianismo en religión oficial: ese paso se asocia a Teodosio I y al Edicto de Tesalónica de 380. Su reinado transformó de manera duradera la relación entre el poder imperial y la Iglesia.",
+      "image": 1522,
+      "categories": [],
+      "associated_series": [
+        7235
+      ],
+      "translations": {
+        "es": 7749,
+        "en": 4048,
+        "fr": 1509,
+        "de": 5988
+      },
+      "source": {
+        "url": "https://byzantine-museum.gr/christian-byzantium/",
+        "label": "Byzantine and Christian Museum — Christian Byzantium",
+        "reviewedAt": "2026-08-09"
+      }
+    },
+    {
+      "family_id": "reykjavik",
+      "id": 978,
+      "language": "fr",
+      "slug": "quelle-est-la-capitale-de-lislande-connue-pour-sa-nature-epoustouflante-et-sa-culture-riche",
+      "question": "Quelle est la capitale de l&#8217;Islande, connue pour sa nature époustouflante et sa culture riche ?",
+      "options": [
+        "Reykjavik",
+        "Akureyri",
+        "Keflavík",
+        "Hafnarfjörður"
+      ],
+      "correct_indicators": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "correct_answer": "Reykjavik",
+      "anecdote": "Reykjavik, connue pour être la capitale la plus septentrionale du monde, se distingue par sa qualité de vie exceptionnelle, ses initiatives environnementales exemplaires et sa riche scène culturelle.\r\n\r\nVille propre, verte et sûre, Reykjavik est entourée de paysages naturels à couper le souffle, incluant des sources géothermales, des volcans et des paysages glacés.\r\n\r\nC'est un centre vibrant pour les arts, la musique et la littérature, offrant un accès privilégié aux merveilles naturelles de l'Islande, comme les aurores boréales.\r\n\r\nSa gestion durable de l'environnement et son engagement envers le développement vert en font un modèle pour les villes du futur.",
+      "image": 990,
+      "categories": [],
+      "associated_series": [
+        975
+      ],
+      "translations": {
+        "fr": 978,
+        "en": 4288,
+        "de": 6128,
+        "es": 7889
+      },
+      "source": {
+        "url": "https://visitreykjavik.is/reykjavik",
+        "label": "Visit Reykjavík — Reykjavík",
+        "reviewedAt": "2026-08-22"
+      }
+    },
+    {
+      "family_id": "reykjavik",
+      "id": 4288,
+      "language": "en",
+      "slug": "what-is-the-capital-of-iceland-known-for-its-stunning-nature-and-rich-culture",
+      "question": "What is the capital of Iceland, known for its stunning nature and rich culture?",
+      "options": [
+        "Reykjavik",
+        "Akureyri",
+        "Keflavik",
+        "Hafnarfjordur"
+      ],
+      "correct_indicators": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "correct_answer": "Reykjavik",
+      "anecdote": "Reykjavik, known for being the northernmost capital in the world, is distinguished by its exceptional quality of life, exemplary environmental initiatives, and rich cultural scene.\r\n\r\nA clean, green, and safe city, Reykjavik is surrounded by breathtaking natural landscapes, including geothermal springs, volcanoes, and icy terrains.\r\n\r\nIt is a vibrant center for the arts, music, and literature, offering privileged access to Iceland's natural wonders, such as the Northern Lights.\r\n\r\nIts sustainable environmental management and commitment to green development make it a model for future cities.",
+      "image": 4289,
+      "categories": [],
+      "associated_series": [
+        3167
+      ],
+      "translations": {
+        "en": 4288,
+        "fr": 978,
+        "de": 6128,
+        "es": 7889
+      },
+      "source": {
+        "url": "https://visitreykjavik.is/reykjavik",
+        "label": "Visit Reykjavík — Reykjavík",
+        "reviewedAt": "2026-08-22"
+      }
+    },
+    {
+      "family_id": "reykjavik",
+      "id": 6128,
+      "language": "de",
+      "slug": "wie-heist-die-nordlichste-hauptstadt-eines-souveranen-staates",
+      "question": "Wie heißt die nördlichste Hauptstadt eines souveränen Staates?",
+      "options": [
+        "Reykjavík",
+        "Akureyri",
+        "Keflavík",
+        "Hafnarfjörður"
+      ],
+      "correct_indicators": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "correct_answer": "Reykjavík",
+      "anecdote": "Reykjavík ist die nördlichste Hauptstadt eines souveränen Staates und für hohe Lebensqualität, Sauberkeit und Sicherheit bekannt. Geothermie versorgt einen großen Teil der Stadt mit Wärme und macht ihre nachhaltige Energie- und Umweltpolitik zu einem Vorbild für andere Metropolen.\n\nTrotz überschaubarer Größe besitzt Reykjavík eine lebendige Musik-, Literatur- und Kunstszene. Die Hauptstadt verbindet dieses kulturelle Leben mit unmittelbarem Zugang zu Islands außergewöhnlicher Natur.\n\nVulkane, heiße Quellen, Eislandschaften und Polarlichter liegen von dort aus in Reichweite. Gerade diese Nähe von urbanem Alltag und spektakulärer Umgebung prägt den besonderen Charakter der Stadt.",
+      "image": 4289,
+      "categories": [],
+      "associated_series": [
+        5461
+      ],
+      "translations": {
+        "de": 6128,
+        "en": 4288,
+        "fr": 978,
+        "es": 7889
+      },
+      "source": {
+        "url": "https://visitreykjavik.is/reykjavik",
+        "label": "Visit Reykjavík — Reykjavík",
+        "reviewedAt": "2026-08-22"
+      }
+    },
+    {
+      "family_id": "reykjavik",
+      "id": 7889,
+      "language": "es",
+      "slug": "cual-es-la-capital-de-islandia-conocida-por-su-naturaleza-y-su-intensa-vida-cultural",
+      "question": "¿Cuál es la capital de Islandia, conocida por su naturaleza y su intensa vida cultural?",
+      "options": [
+        "Reikiavik",
+        "Akureyri",
+        "Keflavík",
+        "Hafnarfjörður"
+      ],
+      "correct_indicators": [
+        true,
+        false,
+        false,
+        false
+      ],
+      "correct_answer": "Reikiavik",
+      "anecdote": "Reikiavik es la capital de un Estado soberano situada más al norte del mundo. Destaca por su calidad de vida, sus iniciativas ambientales y una rica actividad artística, musical y literaria.\n\nEs una ciudad limpia, verde y segura, rodeada de extraordinarios paisajes formados por fuentes geotérmicas, volcanes y extensiones de hielo. También ofrece un acceso privilegiado a fenómenos naturales como la aurora boreal.\n\nEl aprovechamiento de la energía geotérmica y su compromiso con un desarrollo más sostenible figuran entre sus rasgos más conocidos y convierten a Reikiavik en una referencia frecuente para imaginar ciudades más respetuosas con el entorno.",
+      "image": 4289,
+      "categories": [],
+      "associated_series": [
+        7222
+      ],
+      "translations": {
+        "es": 7889,
+        "en": 4288,
+        "fr": 978,
+        "de": 6128
+      },
+      "source": {
+        "url": "https://visitreykjavik.is/reykjavik",
+        "label": "Visit Reykjavík — Reykjavík",
+        "reviewedAt": "2026-08-22"
+      }
+    },
+    {
+      "family_id": "sgt-pepper",
+      "id": 212,
+      "language": "fr",
+      "slug": "quel-est-le-nom-de-lalbum-legendaire-des-beatles-souvent-considere-comme-lun-des-plus-grands-albums-de-tous-les-temps",
+      "question": "Quel album des Beatles de 1967 contient notamment Lucy in the Sky with Diamonds et A Day in the Life ?",
+      "options": [
+        "Abbey Road",
+        "Sgt. Pepper’s Lonely Hearts Club Band",
+        "Rubber Soul",
+        "Revolver."
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Sgt. Pepper’s Lonely Hearts Club Band",
+      "anecdote": "Paru en 1967, « Sgt. Pepper’s Lonely Hearts Club Band » marque une étape majeure dans le travail en studio des Beatles. Le groupe y explore des arrangements orchestraux, des effets sonores, des collages et des techniques d’enregistrement alors novatrices dans la musique populaire. L’album contient notamment « With a Little Help from My Friends », « Lucy in the Sky with Diamonds » et « A Day in the Life ». Sa pochette conçue par Peter Blake et Jann Haworth est devenue emblématique. L’idée que le disque serait le tout premier album-concept est discutée, mais son ambition et sa cohérence ont profondément influencé la manière de concevoir l’album comme une œuvre complète.",
+      "image": 243,
+      "categories": [],
+      "associated_series": [
+        210
+      ],
+      "translations": {
+        "fr": 212,
+        "en": 4213,
+        "de": 6093,
+        "es": 7854
+      },
+      "source": {
+        "url": "https://www.thebeatles.com/sgt-peppers-lonely-hearts-club-band",
+        "label": "The Beatles — Sgt. Pepper’s Lonely Hearts Club Band",
+        "reviewedAt": "2026-08-22"
+      }
+    },
+    {
+      "family_id": "sgt-pepper",
+      "id": 4213,
+      "language": "en",
+      "slug": "what-is-the-name-of-the-legendary-beatles-album-often-considered-one-of-the-greatest-albums-of-all-time",
+      "question": "What is the name of the legendary Beatles album, often considered one of the greatest albums of all time?",
+      "options": [
+        "Abbey Road",
+        "Sgt. Pepper's Lonely Hearts Club Band",
+        "Rubber Soul",
+        "Revolver"
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Sgt. Pepper's Lonely Hearts Club Band",
+      "anecdote": "Published in 1967, “Sgt. Pepper’s Lonely Hearts Club Band” marks a major milestone in the Beatles’ studio work. The group explores orchestral arrangements, sound effects, collages and recording techniques that were then innovative in popular music. The album includes “With a Little Help from My Friends”, “Lucy in the Sky with Diamonds” and “A Day in the Life”. Its cover designed by Peter Blake and Jann Haworth has become iconic. The idea that the record would be the very first concept album is debated, but its ambition and coherence profoundly influenced the way in which the album was conceived as a complete work.",
+      "image": 1505,
+      "categories": [],
+      "associated_series": [
+        3148
+      ],
+      "translations": {
+        "en": 4213,
+        "fr": 212,
+        "de": 6093,
+        "es": 7854
+      },
+      "source": {
+        "url": "https://www.thebeatles.com/sgt-peppers-lonely-hearts-club-band",
+        "label": "The Beatles — Sgt. Pepper’s Lonely Hearts Club Band",
+        "reviewedAt": "2026-08-22"
+      }
+    },
+    {
+      "family_id": "sgt-pepper",
+      "id": 6093,
+      "language": "de",
+      "slug": "welches-legendare-beatles-album-gilt-haufig-als-eines-der-besten-alben-aller-zeiten",
+      "question": "Welches legendäre Beatles-Album gilt häufig als eines der besten Alben aller Zeiten?",
+      "options": [
+        "Abbey Road",
+        "Sgt. Pepper’s Lonely Hearts Club Band",
+        "Rubber Soul",
+        "Revolver"
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Sgt. Pepper’s Lonely Hearts Club Band",
+      "anecdote": "Das 1967 veröffentlichte „Sgt. Pepper’s Lonely Hearts Club Band“ markierte einen Wendepunkt der Popmusik. Statt nur einzelne Songs zu versammeln, bot das Album ein bewusst gestaltetes Gesamterlebnis.\n\nInnovative Studiotechniken erweiterten die klanglichen Möglichkeiten erheblich. Der Erfolg inspirierte andere Musiker dazu, das Album als eigenständiges Kunstwerk zu begreifen, und beeinflusste Generationen von Künstlern.",
+      "image": 1505,
+      "categories": [],
+      "associated_series": [
+        5442
+      ],
+      "translations": {
+        "de": 6093,
+        "fr": 212,
+        "en": 4213,
+        "es": 7854
+      },
+      "source": {
+        "url": "https://www.thebeatles.com/sgt-peppers-lonely-hearts-club-band",
+        "label": "The Beatles — Sgt. Pepper’s Lonely Hearts Club Band",
+        "reviewedAt": "2026-08-22"
+      }
+    },
+    {
+      "family_id": "sgt-pepper",
+      "id": 7854,
+      "language": "es",
+      "slug": "como-se-llama-el-legendario-album-de-the-beatles-que-suele-considerarse-uno-de-los-mejores-de-todos-los-tiempos",
+      "question": "¿Cómo se llama el legendario álbum de The Beatles que suele considerarse uno de los mejores de todos los tiempos?",
+      "options": [
+        "Abbey Road",
+        "Sgt. Pepper's Lonely Hearts Club Band",
+        "Rubber Soul",
+        "Revolver"
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Sgt. Pepper's Lonely Hearts Club Band",
+      "anecdote": "Publicado en 1967, «Sgt. Pepper’s Lonely Hearts Club Band» marcó una etapa fundamental en el trabajo de estudio de los Beatles.\n\nEl grupo exploró arreglos orquestales, efectos sonoros, collages y técnicas de grabación que entonces resultaban innovadoras en la música popular. El álbum contiene, entre otras, «With a Little Help from My Friends», «Lucy in the Sky with Diamonds» y «A Day in the Life».\n\nSu portada, diseñada por Peter Blake y Jann Haworth, se ha convertido en un icono. Se discute que fuera el primer álbum conceptual de la historia, pero su ambición y su coherencia influyeron profundamente en la forma de concebir un álbum como una obra completa.",
+      "image": 1505,
+      "categories": [],
+      "associated_series": [
+        7203
+      ],
+      "translations": {
+        "es": 7854,
+        "fr": 212,
+        "en": 4213,
+        "de": 6093
+      },
+      "source": {
+        "url": "https://www.thebeatles.com/sgt-peppers-lonely-hearts-club-band",
+        "label": "The Beatles — Sgt. Pepper’s Lonely Hearts Club Band",
+        "reviewedAt": "2026-08-22"
+      }
+    },
+    {
+      "family_id": "birthplace-of-hip-hop",
+      "id": 268,
+      "language": "fr",
+      "slug": "quelle-est-la-ville-americaine-souvent-consideree-comme-le-berceau-du-hip-hop",
+      "question": "Quelle est la ville américaine souvent considérée comme le berceau du hip-hop ?",
+      "options": [
+        "Los Angeles",
+        "New York",
+        "Chicago",
+        "Detroit"
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "New York",
+      "anecdote": "New York, en particulier le Bronx, est universellement reconnue comme le véritable berceau du hip-hop.\r\n\r\nAu cœur des années 70, cette métropole a été le théâtre de l'éclosion des quatre piliers fondamentaux du hip-hop : le DJing, où les platines et les mixeurs permettaient de créer de nouvelles musiques à partir de disques existants; le MCing, plus connu sous le nom de rap, où la parole devient rythme et poésie; le breakdance, une forme de danse acrobatique qui s'est développée dans les rues et le graffiti, un art visuel qui a transformé le paysage urbain.\r\n\r\nCe mouvement culturel a émergé dans un contexte socio-économique difficile, marqué par la pauvreté, le chômage, et une certaine marginalisation des communautés afro-américaines et latines. Cependant, loin de se laisser abattre par ces défis, les jeunes de New York ont utilisé ces formes d'expression comme un moyen de résistance, d'affirmation de soi et de contestation.",
+      "image": 348,
+      "categories": [],
+      "associated_series": [
+        258
+      ],
+      "translations": {
+        "fr": 268,
+        "en": 4679,
+        "de": 6311,
+        "es": 8072
+      },
+      "source": {
+        "url": "https://www.si.edu/spotlight/hip-hop-rap-music",
+        "label": "Smithsonian — Hip-Hop and Rap Across the Smithsonian",
+        "reviewedAt": "2026-08-22"
+      }
+    },
+    {
+      "family_id": "birthplace-of-hip-hop",
+      "id": 4679,
+      "language": "en",
+      "slug": "which-american-city-is-often-considered-the-birthplace-of-hip-hop",
+      "question": "Which American city is often considered the birthplace of hip-hop?",
+      "options": [
+        "Los Angeles",
+        "New York",
+        "Chicago",
+        "Detroit"
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "New York",
+      "anecdote": "New York, particularly the Bronx, is universally recognized as the true birthplace of hip-hop.\r\n\r\nIn the heart of the 1970s, this metropolis witnessed the emergence of the four fundamental pillars of hip-hop: DJing, where turntables and mixers were used to create new music from existing records; MCing, better known as rap, where speech becomes rhythm and poetry; breakdancing, an acrobatic form of dance that developed in the streets; and graffiti, a visual art that transformed the urban landscape.\r\n\r\nThis cultural movement emerged in a socio-economic context marked by poverty, unemployment, and marginalization of African American and Latino communities. However, far from being subdued by these challenges, the youth of New York used these forms of expression as a means of resistance, self-assertion, and protest.",
+      "image": 4680,
+      "categories": [],
+      "associated_series": [
+        3147
+      ],
+      "translations": {
+        "en": 4679,
+        "fr": 268,
+        "de": 6311,
+        "es": 8072
+      },
+      "source": {
+        "url": "https://www.si.edu/spotlight/hip-hop-rap-music",
+        "label": "Smithsonian — Hip-Hop and Rap Across the Smithsonian",
+        "reviewedAt": "2026-08-22"
+      }
+    },
+    {
+      "family_id": "birthplace-of-hip-hop",
+      "id": 6311,
+      "language": "de",
+      "slug": "welche-amerikanische-stadt-gilt-haufig-als-geburtsort-des-hip-hop",
+      "question": "Welche amerikanische Stadt gilt häufig als Geburtsort des Hip-Hop?",
+      "options": [
+        "Los Angeles",
+        "New York",
+        "Chicago",
+        "Detroit"
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "New York",
+      "anecdote": "New York, insbesondere die Bronx, gilt weltweit als eigentlicher Geburtsort des Hip-Hop.\n\nMitte der 1970er-Jahre entstanden in dieser Metropole die vier grundlegenden Säulen des Hip-Hop: DJing, bei dem mit Plattenspielern und Mischpulten aus vorhandenen Aufnahmen neue Musik entstand; MCing, besser bekannt als Rap, bei dem Sprache zu Rhythmus und Poesie wird; Breakdance, eine akrobatische Tanzform, die sich auf der Straße entwickelte; und Graffiti, eine visuelle Kunstform, die das Stadtbild veränderte.\n\nDie Bewegung entstand in einem sozioökonomischen Umfeld, das von Armut, Arbeitslosigkeit und der Marginalisierung afroamerikanischer und lateinamerikanischer Gemeinschaften geprägt war. Die Jugend New Yorks ließ sich davon jedoch nicht unterkriegen, sondern nutzte diese Ausdrucksformen als Mittel des Widerstands, der Selbstbehauptung und des Protests.",
+      "image": 4680,
+      "categories": [],
+      "associated_series": [
+        5441
+      ],
+      "translations": {
+        "de": 6311,
+        "en": 4679,
+        "fr": 268,
+        "es": 8072
+      },
+      "source": {
+        "url": "https://www.si.edu/spotlight/hip-hop-rap-music",
+        "label": "Smithsonian — Hip-Hop and Rap Across the Smithsonian",
+        "reviewedAt": "2026-08-22"
+      }
+    },
+    {
+      "family_id": "birthplace-of-hip-hop",
+      "id": 8072,
+      "language": "es",
+      "slug": "que-ciudad-estadounidense-suele-considerarse-la-cuna-del-hip-hop",
+      "question": "¿Qué ciudad estadounidense suele considerarse la cuna del hip-hop?",
+      "options": [
+        "Los Ángeles",
+        "Nueva York",
+        "Chicago",
+        "Detroit"
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Nueva York",
+      "anecdote": "Nueva York, y en particular el Bronx, está reconocida universalmente como la verdadera cuna del hip-hop. A mediados de los años setenta, esta metrópoli vio nacer los cuatro pilares fundamentales del hip-hop: el DJing, en el que los platos y las mesas de mezclas permitían crear nueva música a partir de discos existentes; el MCing, más conocido como rap, donde la palabra se convierte en ritmo y poesía; el breakdance, una forma de baile acrobático que se desarrolló en las calles; y el grafiti, un arte visual que transformó el paisaje urbano.\n\nEste movimiento cultural surgió en un contexto socioeconómico difícil, marcado por la pobreza, el desempleo y cierta marginación de las comunidades afroamericanas y latinas. Sin embargo, lejos de dejarse abatir por estas dificultades, los jóvenes de Nueva York utilizaron estas formas de expresión como medios de resistencia, afirmación personal y protesta.",
+      "image": 4680,
+      "categories": [],
+      "associated_series": [
+        7202
+      ],
+      "translations": {
+        "es": 8072,
+        "en": 4679,
+        "fr": 268,
+        "de": 6311
+      },
+      "source": {
+        "url": "https://www.si.edu/spotlight/hip-hop-rap-music",
+        "label": "Smithsonian — Hip-Hop and Rap Across the Smithsonian",
+        "reviewedAt": "2026-08-22"
+      }
+    },
+    {
+      "family_id": "nighthawks",
+      "id": 665,
+      "language": "fr",
+      "slug": "quel-tableau-de-edward-hopper-illustre-la-solitude-urbaine",
+      "question": "Quel tableau d’Edward Hopper illustre la solitude urbaine ?",
+      "options": [
+        "American Gothic",
+        "Guernica",
+        "Nighthawks",
+        "La Liberté guidant le peuple."
+      ],
+      "correct_indicators": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "correct_answer": "Nighthawks",
+      "anecdote": "Peint en 1942, « Nighthawks » est devenu l’une des images les plus célèbres d’Edward Hopper. Le tableau montre quatre personnes dans un diner vivement éclairé, à l’angle d’une rue new-yorkaise presque vide. Hopper s’inspira d’un restaurant de Greenwich Avenue, tout en simplifiant fortement l’architecture et l’environnement. L’absence d’entrée visible, les grandes surfaces vitrées et le faible échange entre les personnages renforcent l’impression de séparation. Ces choix de composition expliquent pourquoi l’œuvre est souvent associée à la solitude et à l’anonymat de la vie urbaine moderne.",
+      "image": 680,
+      "categories": [],
+      "associated_series": [
+        655
+      ],
+      "translations": {
+        "fr": 665,
+        "en": 4498,
+        "de": 6229,
+        "es": 7990
+      },
+      "source": {
+        "url": "https://www.artic.edu/artworks/111628/nighthawks",
+        "label": "Art Institute of Chicago — Nighthawks",
+        "reviewedAt": "2026-08-22"
+      }
+    },
+    {
+      "family_id": "nighthawks",
+      "id": 4498,
+      "language": "en",
+      "slug": "which-painting-by-edward-hopper-illustrates-urban-loneliness",
+      "question": "Which painting by Edward Hopper illustrates urban loneliness?",
+      "options": [
+        "American Gothic",
+        "Guernica",
+        "Nighthawks",
+        "Liberty Leading the People"
+      ],
+      "correct_indicators": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "correct_answer": "Nighthawks",
+      "anecdote": "\"Nighthawks\" is much more than a mere depiction of urban loneliness. Hopper was inspired by a diner on Greenwich Avenue in New York's Greenwich Village neighborhood, but he chose to remove all the doors!\r\n\r\nThe absence of doors on the diner's facade, as seen in the painting, perhaps symbolizes an invisible barrier between the people inside and the outside world, accentuating the sense of isolation.\r\n\r\nThis subtle yet powerful touch invites deeper reflection on isolation and human connection in metropolises.",
+      "image": 4499,
+      "categories": [],
+      "associated_series": [
+        3157
+      ],
+      "translations": {
+        "en": 4498,
+        "fr": 665,
+        "de": 6229,
+        "es": 7990
+      },
+      "source": {
+        "url": "https://www.artic.edu/artworks/111628/nighthawks",
+        "label": "Art Institute of Chicago — Nighthawks",
+        "reviewedAt": "2026-08-22"
+      }
+    },
+    {
+      "family_id": "nighthawks",
+      "id": 6229,
+      "language": "de",
+      "slug": "welches-gemalde-von-edward-hopper-versinnbildlicht-die-einsamkeit-der-grosstadt",
+      "question": "Welches Gemälde von Edward Hopper versinnbildlicht die Einsamkeit der Großstadt?",
+      "options": [
+        "American Gothic",
+        "Guernica",
+        "Nighthawks",
+        "Die Freiheit führt das Volk"
+      ],
+      "correct_indicators": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "correct_answer": "Nighthawks",
+      "anecdote": "„Nighthawks“ ist weit mehr als eine bloße Darstellung großstädtischer Einsamkeit. Hopper ließ sich von einem Diner an der Greenwich Avenue im New Yorker Viertel Greenwich Village inspirieren, entfernte in seinem Bild jedoch sämtliche Türen.\n\nDass an der sichtbaren Fassade kein Eingang zu erkennen ist, kann als unsichtbare Barriere zwischen den Menschen im Inneren und der Außenwelt verstanden werden. Dadurch verstärkt sich der Eindruck von Abgeschiedenheit.\n\nDieses unauffällige, aber wirkungsvolle Detail lädt dazu ein, tiefer über Isolation und menschliche Nähe in der Großstadt nachzudenken.",
+      "image": 4499,
+      "categories": [],
+      "associated_series": [
+        5451
+      ],
+      "translations": {
+        "de": 6229,
+        "en": 4498,
+        "fr": 665,
+        "es": 7990
+      },
+      "source": {
+        "url": "https://www.artic.edu/artworks/111628/nighthawks",
+        "label": "Art Institute of Chicago — Nighthawks",
+        "reviewedAt": "2026-08-22"
+      }
+    },
+    {
+      "family_id": "nighthawks",
+      "id": 7990,
+      "language": "es",
+      "slug": "que-cuadro-de-edward-hopper-representa-la-soledad-urbana",
+      "question": "¿Qué cuadro de Edward Hopper representa la soledad urbana?",
+      "options": [
+        "American Gothic",
+        "Guernica",
+        "Nighthawks",
+        "La libertad guiando al pueblo"
+      ],
+      "correct_indicators": [
+        false,
+        false,
+        true,
+        false
+      ],
+      "correct_answer": "Nighthawks",
+      "anecdote": "Pintado en 1942, «Nighthawks» se ha convertido en una de las imágenes más conocidas de Edward Hopper. El cuadro muestra a cuatro personas dentro de un diner intensamente iluminado, en la esquina de una calle neoyorquina casi vacía.\n\nHopper se inspiró en un restaurante de Greenwich Avenue, aunque simplificó mucho tanto la arquitectura como el entorno. La ausencia de una entrada visible, las grandes superficies acristaladas y la escasa interacción entre los personajes refuerzan la sensación de separación.\n\nEstas decisiones compositivas explican que la obra se asocie a menudo con la soledad y el anonimato de la vida urbana moderna.",
+      "image": 4499,
+      "categories": [],
+      "associated_series": [
+        7212
+      ],
+      "translations": {
+        "es": 7990,
+        "en": 4498,
+        "fr": 665,
+        "de": 6229
+      },
+      "source": {
+        "url": "https://www.artic.edu/artworks/111628/nighthawks",
+        "label": "Art Institute of Chicago — Nighthawks",
+        "reviewedAt": "2026-08-22"
+      }
+    },
+    {
+      "family_id": "starry-night",
+      "id": 656,
+      "language": "fr",
+      "slug": "qui-a-peint-ce-tableau",
+      "question": "Qui a peint La Nuit étoilée ?",
+      "options": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Claude Monet",
+        "Léonard de Vinci."
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Vincent van Gogh",
+      "anecdote": "Vincent van Gogh peignit « La Nuit étoilée » en juin 1889 alors qu’il séjournait à l’asile de Saint-Paul-de-Mausole, à Saint-Rémy-de-Provence. Le paysage s’appuie en partie sur la vue orientée vers l’est depuis sa chambre, qu’il observa à plusieurs moments de la journée. Il transforma cependant fortement la scène : le village et son clocher sont imaginés, tandis que le ciel tourbillonnant organise la composition. Van Gogh réalisa la toile en atelier et non directement pendant la nuit. Aujourd’hui conservée au Museum of Modern Art de New York, elle est devenue l’une de ses œuvres les plus célèbres.",
+      "image": 664,
+      "categories": [],
+      "associated_series": [
+        655
+      ],
+      "translations": {
+        "fr": 656,
+        "en": 4500,
+        "de": 6230,
+        "es": 7991
+      },
+      "source": {
+        "url": "https://www.moma.org/collection/works/79802",
+        "label": "MoMA — The Starry Night",
+        "reviewedAt": "2026-08-22"
+      }
+    },
+    {
+      "family_id": "starry-night",
+      "id": 4500,
+      "language": "en",
+      "slug": "who-painted-the-starry-night",
+      "question": "Who painted &#8220;The Starry Night&#8221;?",
+      "options": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Claude Monet",
+        "Leonardo da Vinci"
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Vincent van Gogh",
+      "anecdote": "Vincent van Gogh painted “The Starry Night” in June 1889 while he was staying at the Saint-Paul-de-Mausole asylum, in Saint-Rémy-de-Provence. The landscape is based in part on the east-facing view from his room, which he observed at several times of the day. However, he strongly transformed the scene: the village and its bell tower are imagined, while the swirling sky organizes the composition. Van Gogh created the painting in the studio and not directly during the night. Now held at the Museum of Modern Art in New York, it has become one of his most famous works.",
+      "image": 4501,
+      "categories": [],
+      "associated_series": [
+        3157
+      ],
+      "translations": {
+        "en": 4500,
+        "fr": 656,
+        "de": 6230,
+        "es": 7991
+      },
+      "source": {
+        "url": "https://www.moma.org/collection/works/79802",
+        "label": "MoMA — The Starry Night",
+        "reviewedAt": "2026-08-22"
+      }
+    },
+    {
+      "family_id": "starry-night",
+      "id": 6230,
+      "language": "de",
+      "slug": "wer-malte-sternennacht",
+      "question": "Wer malte „Sternennacht“?",
+      "options": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Claude Monet",
+        "Leonardo da Vinci"
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Vincent van Gogh",
+      "anecdote": "Anders als häufig angenommen entstand „Sternennacht“ nicht als unmittelbare Wiedergabe des Ausblicks aus van Goghs Fenster in der Heilanstalt von Saint-Rémy.\n\nTatsächlich malte van Gogh das Bild tagsüber aus der Erinnerung. Das Werk zeigt nicht nur sein erstaunliches Gedächtnis für Einzelheiten, sondern auch seinen Wunsch, die Landschaft mit den eigenen Gefühlen aufzuladen. So verwandelte er eine gewöhnliche Nachtszene in einen lebhaften Wirbel aus Farbe und Bewegung.\n\nDer Abstand zwischen Wirklichkeit und Darstellung macht van Goghs Vorstellungskraft sichtbar und zeigt, wie weit sein Blick über die greifbare Welt hinausging.",
+      "image": 4501,
+      "categories": [],
+      "associated_series": [
+        5451
+      ],
+      "translations": {
+        "de": 6230,
+        "en": 4500,
+        "fr": 656,
+        "es": 7991
+      },
+      "source": {
+        "url": "https://www.moma.org/collection/works/79802",
+        "label": "MoMA — The Starry Night",
+        "reviewedAt": "2026-08-22"
+      }
+    },
+    {
+      "family_id": "starry-night",
+      "id": 7991,
+      "language": "es",
+      "slug": "quien-pinto-la-noche-estrellada",
+      "question": "¿Quién pintó «La noche estrellada»?",
+      "options": [
+        "Pablo Picasso",
+        "Vincent van Gogh",
+        "Claude Monet",
+        "Leonardo da Vinci"
+      ],
+      "correct_indicators": [
+        false,
+        true,
+        false,
+        false
+      ],
+      "correct_answer": "Vincent van Gogh",
+      "anecdote": "Vincent van Gogh pintó «La noche estrellada» en junio de 1889, durante su estancia en el sanatorio de Saint-Paul-de-Mausole, en Saint-Rémy-de-Provence. El paisaje se basa en parte en la vista orientada hacia el este desde su habitación, que observó en distintos momentos del día.\n\nSin embargo, transformó profundamente la escena: el pueblo y su campanario son imaginarios, mientras que el cielo arremolinado estructura toda la composición. Van Gogh realizó el cuadro en el estudio, no directamente durante la noche.\n\nConservada hoy en el Museum of Modern Art de Nueva York, se ha convertido en una de sus obras más célebres.",
+      "image": 4501,
+      "categories": [],
+      "associated_series": [
+        7212
+      ],
+      "translations": {
+        "es": 7991,
+        "en": 4500,
+        "fr": 656,
+        "de": 6230
+      },
+      "source": {
+        "url": "https://www.moma.org/collection/works/79802",
+        "label": "MoMA — The Starry Night",
+        "reviewedAt": "2026-08-22"
+      }
+    }
+  ]
+}

@@ -1,0 +1,11 @@
+cff-version: 1.2.0
+message: If you use this dataset, please cite it using the metadata below.
+title: Qulture Multilingual General Knowledge Question Dataset
+type: dataset
+authors:
+  - name: Qulture
+version: 1.0.0
+date-released: 2026-08-23
+doi: 10.5281/zenodo.22108528
+url: https://www.qulture-app.com/en/open-data/
+license: CC-BY-4.0
